@@ -1,0 +1,81 @@
+# === STM32CubeIDE & Eclipse-Based IDE Build Artifacts ===
+
+# Unwanted folders
+Backups_of_Projects
+Downloaded_Projects
+
+# Build output directories
+Debug/
+Release/
+
+# Build output files
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.a
+*.ld
+*.su
+
+# === STM32CubeIDE Metadata Files ===
+
+.cproject
+.project
+.settings/
+*.launch
+*.prefs
+
+# ST-Link / GDB server logs (optional: remove if not generated)
+st-link_gdbserver_log.txt
+
+# === OS-Specific Artifacts ===
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux (especially GNOME/Nautilus)
+.nfs*
+
+# === Editor/Tool/Temporary Files ===
+
+# Vim / vi
+*.swp
+*.swo
+
+# General backup / temp
+*.bak
+*.tmp
+*~
+*.log
+
+# Eclipse / STM32 auto-generated folders (rare but possible)
+.metadata/
+RemoteSystemsTempFiles/
+.ipch/
+
+# === GCC Coverage Files ===
+*.gcda
+*.gcno
+*.gcov
+
+# === Git-Specific ===
+
+# Include source and necessary configuration files
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.ld
+!Makefile
+!*.ioc
+!README*
+!LICENSE*
+!.gitignore
