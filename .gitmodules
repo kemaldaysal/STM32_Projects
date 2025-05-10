@@ -1,0 +1,12 @@
+[submodule "STM32_Projects_Active/MPU6050-STM32-I2C-UART-Modular-Driver-with-Pitch-and-Row-Measurements"]
+	path = STM32_Projects_Active/MPU6050-STM32-I2C-UART-Modular-Driver-with-Pitch-and-Row-Measurements
+	url = https://github.com/kemaldaysal/MPU6050-STM32-I2C-UART-Modular-Driver-with-Pitch-and-Row-Measurements.git
+[submodule "STM32_Projects_Active/Ultrasonic_Sensor_with_Timer_Input_Capture_Mode"]
+	path = STM32_Projects_Active/Ultrasonic_Sensor_with_Timer_Input_Capture_Mode
+	url = https://github.com/kemaldaysal/HCSR04-STM32-Driver-with-Timer-Input-Capture-Interrupt-Mode-and-DHT11-Support.git
+[submodule "STM32_Projects_Active/DHT11_Custom_Driver"]
+	path = STM32_Projects_Active/DHT11_Custom_Driver
+	url = https://github.com/kemaldaysal/DHT11-STM32-Driver-with-Timer-Interrupts-and-UART.git
+[submodule "STM32_Projects_Active/TempSensor_LM35_with_UART_Nucleo"]
+	path = STM32_Projects_Active/TempSensor_LM35_with_UART_Nucleo
+	url = https://github.com/kemaldaysal/LM35-STM32-ADC-DMA-Nonblocking-Driver-with-Timer-and-UART-Interrupts.git
